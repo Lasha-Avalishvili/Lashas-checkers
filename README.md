@@ -1,4 +1,5 @@
-# Lashas-checkers
+# Lashas-checkers          
+Creation Date: 05/02/2021
 
 My first JavaScript checkers game
 
